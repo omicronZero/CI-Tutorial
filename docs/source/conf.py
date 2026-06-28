@@ -9,9 +9,9 @@ import sys
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CICD-Tutorial'
-copyright = '2026, omicronZero'
-author = 'omicronZero'
+project = 'myapp'
+copyright = '2026, AUTHOR'
+author = 'AUTHOR'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------

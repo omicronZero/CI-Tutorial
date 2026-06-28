@@ -18,6 +18,7 @@ to a respective separate branch "gh-docs-<dev/main/master>".
   where adequate
 * On your repository under Settings/Branches, check that merging only passes if all checks from linting, tests, etc.
   pass
+* Replace ``myapp`` with the name of your app on all files and ``AUTHOR`` with your name
 
 # License (MIT-0)
 
